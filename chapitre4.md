@@ -239,12 +239,4 @@ else:
 
 
 *"""
-```
 
----
-
-
----
-
-Veux-tu aussi que je te prépare directement un fichier `.py` ou `.md` pour que tu n’aies qu’à faire un drag-and-drop ? 🚀  
-(Dis-moi si tu veux 😎)
